@@ -6,7 +6,7 @@
  * valid HTML. Can also be used as a WordPress plugin.
  *
  * @package Earth3300\EC01
- * @version 0.0.2
+ * @version 0.0.3
  * @author Clarence J. Bos <cbos@tnoep.ca>
  * @copyright Copyright (c) 2018, Clarence J. Bos
  * @license https://www.gnu.org/licenses/gpl-3.0.en.html GPL v3.0
@@ -16,7 +16,7 @@
  * Plugin Name: EC01 XML Reader
  * Plugin URI:  https://github.com/earth3300/ec01-xml-reader
  * Description: Reads and XML file and displays it in HTML.  Shortcode [xml-reader dir=""].
- * Version: 0.0.2
+ * Version: 0.0.3
  * Author: Clarence J. Bos
  * Author URI: https://github.com/earth3300/
  * Text Domain: ec01-xml-reader
@@ -31,7 +31,7 @@
  *
  * File: index.php
  * Created: 2018-10-07
- * Updated: 2018-11-10
+ * Updated: 2018-11-11
  * Time: 10:12 EST
  */
 
